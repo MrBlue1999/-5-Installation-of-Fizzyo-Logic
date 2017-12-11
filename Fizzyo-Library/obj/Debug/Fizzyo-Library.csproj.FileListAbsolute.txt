@@ -1,0 +1,70 @@
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\obj\Debug\Fizzyo-Library.csprojResolveAssemblyReference.cache
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\Fizzio-Library.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\Fizzio-Library.pdb
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\MonoGame.Framework.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.MediaFoundation.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.XAudio2.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.DXGI.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.Direct3D11.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.Direct2D1.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.XInput.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.Direct3D9.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\MonoGame.Framework.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.MediaFoundation.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.XAudio2.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.DXGI.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.Direct3D11.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.Direct2D1.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.XInput.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\bin\Debug\SharpDX.Direct3D9.xml
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\obj\Debug\Fizzio-Library.dll
+\\thor.net.dcs.hull.ac.uk\Home\350809\Data\Fizzyo\Fizzyo-Library\obj\Debug\Fizzio-Library.pdb
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzyo-Library.csprojResolveAssemblyReference.cache
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzio-Library.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzio-Library.pdb
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\Fizzio-Library.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\Fizzio-Library.pdb
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\MonoGame.Framework.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.DXGI.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XInput.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\MonoGame.Framework.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.DXGI.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XInput.xml
+C:\Users\daviu\Downloads\Games-master\Games-master\Sample Games\Fizzyo-MonoGame-Example\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\Fizzio-Library.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\Fizzio-Library.pdb
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\MonoGame.Framework.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.DXGI.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XInput.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\MonoGame.Framework.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.DXGI.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.XInput.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzyo-Library.csprojResolveAssemblyReference.cache
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzyo-Library.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzio-Library.dll
+C:\Users\harry\Desktop\MonoGame-DesktopGL\Fizzyo-Library\obj\Debug\Fizzio-Library.pdb

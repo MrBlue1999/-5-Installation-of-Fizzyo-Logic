@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/cheese.png</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/cracker.png</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/MessageFont.spritefont</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/Burp.wav</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/AirShip.png</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/SubMarine.png</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/Shark.png</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/EnemyPlane.Png</File>
+    <File>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/Ocean.png</File>
+  </SourceFiles>
+</SourceFileCollection>

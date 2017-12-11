@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/Burp.wav</SourceFile>
+  <SourceTime>2017-10-17T16:16:59.4376181+01:00</SourceTime>
+  <DestFile>C:/Users/harry/Desktop/Working Versions/#5 Installation of Fizzyo Logic/CrackerChase/Content/bin/Windows/Burp.xnb</DestFile>
+  <DestTime>2017-12-11T00:23:43.8175562+00:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
